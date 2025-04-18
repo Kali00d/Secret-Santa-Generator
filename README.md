@@ -12,7 +12,7 @@ A simple and fun web-based Secret Santa name generator built with **HTML**, **Ja
 
 ## Preview
 
-![screenshot](https://user-images.githubusercontent.com/your-username/screenshot.png) <!-- Replace with actual image if needed -->
+![screenshot](https://github.com/buddhirangana/Secret-Santa-Generator/blob/3805c89145f01f2c46d36aaee45ed891e8efb52e/screenshot.jpg) <!-- Replace with actual image if needed -->
 
 ## Technologies Used
 
