@@ -2,26 +2,26 @@
 
 A simple and fun web-based Secret Santa name generator built with **HTML**, **JavaScript**, and **Bootstrap 5**. Easily create anonymous pairings for your group of friends, family, or coworkers!
 
-## 🚀 Features
+## Features
 
-- 🎁 Random Secret Santa pairings
-- ✅ Ensures no one is assigned to themselves
-- 🖋️ Dynamic name input based on number of participants
-- 📱 Mobile-responsive and clean UI using Bootstrap 5
-- 📦 No backend required – runs fully in the browser
+- Random Secret Santa pairings
+- Ensures no one is assigned to themselves
+- Dynamic name input based on the number of participants
+- Mobile-responsive and clean UI using Bootstrap 5
+- No backend required – runs fully in the browser
 
-## 🖼️ Preview
+## Preview
 
 ![screenshot](https://user-images.githubusercontent.com/your-username/screenshot.png) <!-- Replace with actual image if needed -->
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - [Bootstrap 5](https://getbootstrap.com)
 
-## 📂 How to Use
+## How to Use
 
 1. Clone the repository:
 
