@@ -19,7 +19,8 @@ A simple and fun web-based Secret Santa name generator built with **HTML**, **Ja
 - HTML5
 - CSS3
 - JavaScript
-- [Bootstrap 5](https://getbootstrap.com)
+- Bootstrap
+- Font Awesome
 
 ## How to Use
 
