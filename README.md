@@ -43,7 +43,7 @@ A simple and fun web-based Secret Santa name generator built with **HTML**, **Ja
   
 5. Click "Generate Secret Santa" to view pairings!
    
-- Make sure each name is unique and non-empty.
+   - Make sure each name is unique and non-empty.
 
 ## Credits
 
