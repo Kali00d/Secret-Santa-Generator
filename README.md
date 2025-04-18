@@ -1,4 +1,4 @@
-# 🎅 Secret Santa Generator
+# 🎅🏻 Secret Santa Generator
 
 A simple and fun web-based Secret Santa name generator built with **HTML**, **JavaScript**, and **Bootstrap 5**. Easily create anonymous pairings for your group of friends, family, or coworkers!
 
